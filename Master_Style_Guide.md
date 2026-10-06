@@ -532,6 +532,57 @@ For formulas and worked examples for each URL type, see the standalone `Lucid_UR
 - Avoid technical words, jargon, and acronyms wherever possible.
 - Prefer specific, concrete language over abstract descriptors.
 
+### 2.18  Etraveli Group / GoToGate
+
+| **Industry**   | Online Travel — B2C flight booking platform (also B2B fraud prevention via Precision)                                   |
+|----------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Audience**   | B2C: price-conscious travelers, families and couples aged 35–50, smart buyers and explorers. B2B: travel industry partners and airlines. Corporate: investors, stakeholders, employees. |
+| **Voice/Tone** | Relaxed, informal, witty, uncomplicated, factual, reassuring, youthful, unembellished. Brand promise: "Fly smart, enjoy more" (DNT). |
+
+#### Overrides &amp; Additions
+
+- Second-person: Informal — use "você" throughout B2C copy.
+- Voice: Active/imperative preferred. Passive only where genuinely more natural in pt-BR.
+- Colloquial expressions: Inappropriate.
+- Contractions: Encouraged in informal and semi-formal contexts; avoid in legal or formal content.
+- Abbreviations: Not acceptable as default. Introduce full term first; abbreviation in parentheses on first use.
+- No Oxford comma.
+- Do not translate: website names, branded names (GoToGate, Mytrip, Flight Network, Etraveli Group, Precision), product names, usernames, email addresses, URLs.
+- Bullet points: Begin with capital; full-sentence bullets end with period.
+- Brand naming: **GoToGate** — one word, capital initials. **Mytrip** and **Gotogate** — one word. **Flight Network** — always two words. Shorthand GTG acceptable in casual/social media only.
+- Brand promise **"Fly smart, enjoy more"** is DNT — always keep in English.
+
+#### Translation vs. transcreation
+
+- Informational/instructional/transactional copy: stay close to source; prioritize accuracy, clarity, and TM consistency.
+- Promotional/creative copy (newsletters, B2C marketing): transcreation permitted. Note deviations from source in Smartling comments.
+- Avoid culturally specific idioms and wordplay that will not survive translation into pt-BR.
+
+#### Tone qualities (all ETG brands)
+
+Descriptive (vivid but not lyrical), Personal (first/second person; avoid third-person brand references), Relaxed and informal (contractions, light exclamation marks, emojis in social/newsletters only), Uncomplicated (short sentences, plain vocabulary), Factual (use facts and figures), Reassuring (more formal register for security and trust content), Youthful (fresh but professional), Unembellished (few adjectives).
+
+#### Numbers, dates, times &amp; currencies (pt-BR)
+
+- Numbers: always as digits; no words.
+- Percentages: % symbol, no space — "20%", not "20 %".
+- Dates: DD/MM/YYYY or "15 de maio de 2025".
+- Times: 24-hour clock with colon — 14:00, not 2:00 pm.
+- Currencies: code/symbol before amount — R$ 50, USD 50. Decimal: period (R$ 1.50). Thousands: comma (R$ 1,000). Always specify each currency when multiple appear.
+- Units: space between number and unit — "2 mm", not "2mm".
+
+#### Punctuation
+
+- No em dashes. En dashes for ranges.
+- Emojis: social media and newsletters only.
+- Exclamation marks: sparingly, informal copy only.
+- No semicolons, hashtags, asterisks.
+- Quotation marks: double for quotes and special terms; single only for a quote within a quote.
+
+#### Accessibility
+
+Translate all alt text accurately and concisely. CTA and link text must be descriptive — avoid "Clique aqui"; prefer "Saiba mais sobre reembolsos". Apply WCAG plain-language principles: short sentences, no unnecessary jargon, predictable phrasing.
+
 **QUICK REFERENCE**
 
 ## Account Comparison at a Glance
@@ -555,6 +606,7 @@ For formulas and worked examples for each URL type, see the standalone `Lucid_UR
 | Sovos             | Varies by audience          | Active      |
 | Swarm             | Informal                    | Active      |
 | Vanta             | Formal                      | Active      |
+| Etraveli / GoToGate | Informal                  | Active      |
 
 | **Account**       | **Colloquial OK?**                     | **Abbreviations?**                           |
 |-------------------|----------------------------------------|----------------------------------------------|
@@ -575,3 +627,4 @@ For formulas and worked examples for each URL type, see the standalone `Lucid_UR
 | Sovos             | No                                     | Yes (spell out first use)                    |
 | Swarm             | Yes                                    | Yes                                          |
 | Vanta             | No                                     | No                                           |
+| Etraveli / GoToGate | No                                   | No (introduce full term first)               |
